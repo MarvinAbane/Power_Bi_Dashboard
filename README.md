@@ -27,15 +27,18 @@ This project served as a comprehensive journey through some of Power BI’s most
 *The report is organized into two distinct pages, designed to provide both an overview and detailed insights:*
 
 ### Page 1: High-Level Market View
-![DashboardPage1](/Images/Project%201%20page%201.png)
+<img width="860" height="482" alt="Project 1 page 1" src="https://github.com/user-attachments/assets/0e7f04d8-947a-4625-b67c-91e3fde795f7" />
+
 
 This page acts as a control tower for understanding the broader data science job market. It presents vital KPIs such as total number of jobs, median salaries, and the most sought-after job titles. This high-level summary helps users quickly gauge the current state of the market and identify areas of interest.
 
 ### Page 2: Job Title Drill-Through
-![DashboardPage1](/Images/Project%201%20page%202.png)
+<img width="859" height="484" alt="Project 1 page 2" src="https://github.com/user-attachments/assets/3b3bde37-9cce-4f91-83cd-7ab04caa4c29" />
+
 This page offers a deep dive into specific job titles. Users can drill through from the main dashboard to see detailed information related to any selected role, including salary ranges, the proportion of remote work options, popular hiring platforms, and a global map of job locations. This detailed view helps users perform targeted research and gather comprehensive insights into particular job markets.
 
 ## Conclusion
 
 This Power BI dashboard exemplifies how raw data from job postings can be transformed into a powerful, interactive tool for career analysis. It demonstrates the potential of Power BI’s features to enable users to slice, filter, and drill down into data, making complex information accessible and actionable. By converting raw, scattered data into a cohesive, easy-to-navigate platform, the dashboard empowers users to explore market trends, analyze salary variations, and make informed decisions about their career paths based on real-time insights.
+
 
